@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidGame01" />
+            <option value="$PROJECT_DIR$/AndroidGame02" />
+            <option value="$PROJECT_DIR$/AndroidGame03" />
+            <option value="$PROJECT_DIR$/AndroidGame04" />
+            <option value="$PROJECT_DIR$/AndroidGame05" />
+            <option value="$PROJECT_DIR$/AndroidGame06" />
+            <option value="$PROJECT_DIR$/AndroidGame07" />
+            <option value="$PROJECT_DIR$/AndroidGame08" />
+            <option value="$PROJECT_DIR$/AndroidGame09" />
+            <option value="$PROJECT_DIR$/AndroidGame10" />
+            <option value="$PROJECT_DIR$/AndroidGame11" />
+            <option value="$PROJECT_DIR$/AndroidGame12" />
+            <option value="$PROJECT_DIR$/AndroidGame13" />
+            <option value="$PROJECT_DIR$/AndroidGame14" />
+            <option value="$PROJECT_DIR$/AndroidGame15" />
+            <option value="$PROJECT_DIR$/AndroidGame16" />
+            <option value="$PROJECT_DIR$/AndroidGame17" />
+            <option value="$PROJECT_DIR$/AndroidGame18" />
+            <option value="$PROJECT_DIR$/AndroidGame19" />
+            <option value="$PROJECT_DIR$/AndroidGame20" />
+            <option value="$PROJECT_DIR$/AndroidGame21" />
+            <option value="$PROJECT_DIR$/AndroidGame22" />
+            <option value="$PROJECT_DIR$/AndroidGame23" />
+            <option value="$PROJECT_DIR$/AndroidGame24" />
+            <option value="$PROJECT_DIR$/AndroidGame25" />
+            <option value="$PROJECT_DIR$/AndroidGame26" />
+            <option value="$PROJECT_DIR$/AndroidGame27" />
+            <option value="$PROJECT_DIR$/AndroidGame28" />
+            <option value="$PROJECT_DIR$/AndroidGame29" />
+            <option value="$PROJECT_DIR$/AndroidGame30" />
+            <option value="$PROJECT_DIR$/AndroidGame31" />
+            <option value="$PROJECT_DIR$/AndroidGame32" />
+            <option value="$PROJECT_DIR$/AndroidGame33" />
+            <option value="$PROJECT_DIR$/AndroidGame34" />
+            <option value="$PROJECT_DIR$/AndroidGame35" />
+            <option value="$PROJECT_DIR$/AndroidGame36" />
+            <option value="$PROJECT_DIR$/AndroidGame37" />
+            <option value="$PROJECT_DIR$/AndroidGame38" />
+            <option value="$PROJECT_DIR$/AndroidGame39" />
+            <option value="$PROJECT_DIR$/AndroidGame40" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

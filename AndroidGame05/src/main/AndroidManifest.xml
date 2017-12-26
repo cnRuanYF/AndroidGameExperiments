@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.ruanyf.androidgame05">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label=" Ex05:坐标系变换 by 229阮耀锋"
+        android:theme="@style/Theme.AppCompat">
+        <activity
+            android:name="com.ruanyf.androidgame05.MainActivity"
+            android:label=" 05:坐标系变换">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

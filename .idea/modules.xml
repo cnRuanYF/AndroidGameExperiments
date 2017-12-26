@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame01/AndroidGame01.iml" filepath="$PROJECT_DIR$/AndroidGame01/AndroidGame01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame02/AndroidGame02.iml" filepath="$PROJECT_DIR$/AndroidGame02/AndroidGame02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame03/AndroidGame03.iml" filepath="$PROJECT_DIR$/AndroidGame03/AndroidGame03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame04/AndroidGame04.iml" filepath="$PROJECT_DIR$/AndroidGame04/AndroidGame04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame05/AndroidGame05.iml" filepath="$PROJECT_DIR$/AndroidGame05/AndroidGame05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame06/AndroidGame06.iml" filepath="$PROJECT_DIR$/AndroidGame06/AndroidGame06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame07/AndroidGame07.iml" filepath="$PROJECT_DIR$/AndroidGame07/AndroidGame07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame08/AndroidGame08.iml" filepath="$PROJECT_DIR$/AndroidGame08/AndroidGame08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame09/AndroidGame09.iml" filepath="$PROJECT_DIR$/AndroidGame09/AndroidGame09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame10/AndroidGame10.iml" filepath="$PROJECT_DIR$/AndroidGame10/AndroidGame10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame11/AndroidGame11.iml" filepath="$PROJECT_DIR$/AndroidGame11/AndroidGame11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame12/AndroidGame12.iml" filepath="$PROJECT_DIR$/AndroidGame12/AndroidGame12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame13/AndroidGame13.iml" filepath="$PROJECT_DIR$/AndroidGame13/AndroidGame13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame14/AndroidGame14.iml" filepath="$PROJECT_DIR$/AndroidGame14/AndroidGame14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame15/AndroidGame15.iml" filepath="$PROJECT_DIR$/AndroidGame15/AndroidGame15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame16/AndroidGame16.iml" filepath="$PROJECT_DIR$/AndroidGame16/AndroidGame16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame1621145229.iml" filepath="$PROJECT_DIR$/AndroidGame1621145229.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame17/AndroidGame17.iml" filepath="$PROJECT_DIR$/AndroidGame17/AndroidGame17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame18/AndroidGame18.iml" filepath="$PROJECT_DIR$/AndroidGame18/AndroidGame18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame19/AndroidGame19.iml" filepath="$PROJECT_DIR$/AndroidGame19/AndroidGame19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame20/AndroidGame20.iml" filepath="$PROJECT_DIR$/AndroidGame20/AndroidGame20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame21/AndroidGame21.iml" filepath="$PROJECT_DIR$/AndroidGame21/AndroidGame21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame22/AndroidGame22.iml" filepath="$PROJECT_DIR$/AndroidGame22/AndroidGame22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame23/AndroidGame23.iml" filepath="$PROJECT_DIR$/AndroidGame23/AndroidGame23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame24/AndroidGame24.iml" filepath="$PROJECT_DIR$/AndroidGame24/AndroidGame24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame25/AndroidGame25.iml" filepath="$PROJECT_DIR$/AndroidGame25/AndroidGame25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame26/AndroidGame26.iml" filepath="$PROJECT_DIR$/AndroidGame26/AndroidGame26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame27/AndroidGame27.iml" filepath="$PROJECT_DIR$/AndroidGame27/AndroidGame27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame28/AndroidGame28.iml" filepath="$PROJECT_DIR$/AndroidGame28/AndroidGame28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame29/AndroidGame29.iml" filepath="$PROJECT_DIR$/AndroidGame29/AndroidGame29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame30/AndroidGame30.iml" filepath="$PROJECT_DIR$/AndroidGame30/AndroidGame30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame31/AndroidGame31.iml" filepath="$PROJECT_DIR$/AndroidGame31/AndroidGame31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame32/AndroidGame32.iml" filepath="$PROJECT_DIR$/AndroidGame32/AndroidGame32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame33/AndroidGame33.iml" filepath="$PROJECT_DIR$/AndroidGame33/AndroidGame33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame34/AndroidGame34.iml" filepath="$PROJECT_DIR$/AndroidGame34/AndroidGame34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame35/AndroidGame35.iml" filepath="$PROJECT_DIR$/AndroidGame35/AndroidGame35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame36/AndroidGame36.iml" filepath="$PROJECT_DIR$/AndroidGame36/AndroidGame36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame37/AndroidGame37.iml" filepath="$PROJECT_DIR$/AndroidGame37/AndroidGame37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame38/AndroidGame38.iml" filepath="$PROJECT_DIR$/AndroidGame38/AndroidGame38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame39/AndroidGame39.iml" filepath="$PROJECT_DIR$/AndroidGame39/AndroidGame39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGame40/AndroidGame40.iml" filepath="$PROJECT_DIR$/AndroidGame40/AndroidGame40.iml" />
+    </modules>
+  </component>
+</project>

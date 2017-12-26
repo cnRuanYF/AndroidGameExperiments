@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<story>
+    <talks id="t000">
+        <talk name="跳绳小孩">小美女小帅哥快来玩呀~ 喜羊羊~ 美羊羊~ 懒羊羊~ 沸羊羊~</talk>
+        <talk name="赵灵儿">……</talk>
+        <talk name="赵灵儿">伙计们，我在找蜀山的入口，你们造吗？</talk>
+        <talk name="跳绳小孩">有个自称是蜀山弟子的小哥哥在屋顶上走来走去的，你可以去问问他。</talk>
+    </talks>
+    <talks id="t001">
+        <talk name="Doge">哈哈哈哈哈哈哈哈哈……</talk>
+        <talk name="Doge">（狗朝着东边狂吠）</talk>
+        <talk name="赵灵儿">（它的叫声？？？）</talk>
+    </talks>
+    <talks id="t002">
+        <talk name="算命先生">小姐，我观你颧骨平滑，下巴圆润饱满，不如……</talk>
+        <talk name="赵灵儿">不约，叔叔我们不约。</talk>
+    </talks>
+    <talks id="t003">
+        <talk name="Zhao LingEr">Hey boy，what are you doing now?</talk>
+        <talk name="Li XiaoYao">Hello, my name is Li XiaoYao. Nice to meet you.</talk>
+        <talk name="Zhao LingEr">Nice to meet you too, can you speak chinese?</talk>
+        <talk name="李逍遥">（我看着像外国人吗……）</talk>
+        <talk name="李逍遥">听闻村外有些妖怪出没，残害了不少村民，我正欲去制服他们。不知姑娘是否愿意同行？</talk>
+        <talk name="赵灵儿">我叫赵灵儿，正想上蜀山，这样吧，我帮你捉妖，你带我上蜀山，如何？</talk>
+        <talk name="李逍遥">好的，那我们一会儿村外见。</talk>
+    </talks>
+    <talks id="t004">
+        <talk name="地痞">叫你不好好学Android。</talk>
+        <talk name="地痞">叫你不认真敲代码！</talk>
+        <talk name="赵灵儿">（真惨啊……装作没看见好了……）</talk>
+        <talk name="落难书生">女侠救我呀！</talk>
+        <talk name="赵灵儿">（卧槽被发现了！快溜！）</talk>
+    </talks>
+</story>

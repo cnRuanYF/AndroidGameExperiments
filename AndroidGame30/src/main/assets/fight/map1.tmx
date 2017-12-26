@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="17" height="6" tilewidth="80" tileheight="80" nextobjectid="15">
+ <tileset firstgid="1" name="fight_bg" tilewidth="80" tileheight="80" tilecount="102" columns="17">
+  <image source="fight_bg.png" width="1360" height="480"/>
+ </tileset>
+ <layer name="background" width="17" height="6">
+  <data encoding="base64" compression="zlib">
+   eJwNw4c2QgEAANBHIStkhqRQGdmb7JA9srfi/z+he8+5dUEQ1BsybIONNhmx2RZbbbPdqB122mXMbnvstc9+B4w76JDDJhwx6agp04457oQZs+acdMppZ8w765zzLrjoksuuuOqa62646ZbbFtxx1z33PfDQI4see+KpJc8898JLr7z2xlvvvLfsg48++eyLr7757oeffvntj79WrPrnvzUfnRSG
+  </data>
+ </layer>
+ <objectgroup name="show">
+  <object id="1" x="1059" y="87"/>
+  <object id="2" x="1154" y="68"/>
+  <object id="3" x="1079" y="174"/>
+  <object id="4" x="1149" y="140"/>
+  <object id="5" x="1231" y="161"/>
+  <object id="6" x="1089" y="266"/>
+  <object id="7" x="1152" y="224"/>
+  <object id="8" x="1226" y="274"/>
+  <object id="9" x="1167" y="335"/>
+  <object id="10" x="1276" y="336"/>
+  <object id="11" x="1102" y="386"/>
+  <object id="12" x="1216" y="410"/>
+  <object id="13" x="1319" y="401"/>
+  <object id="14" x="1300" y="237"/>
+ </objectgroup>
+</map>

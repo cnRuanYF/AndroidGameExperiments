@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<story>
+    <talks id="tiaosheng_0">
+        <talk name="跳绳小孩">小美女小帅哥快来玩呀~ 喜羊羊~ 美羊羊~ 懒羊羊~ 沸羊羊~</talk>
+        <talk name="赵灵儿">……</talk>
+        <talk name="赵灵儿">伙计们，我在找蜀山的入口，你们造吗？</talk>
+        <talk name="跳绳小孩">有个自称是蜀山弟子的小哥哥在屋顶上走来走去的，你可以去问问他。</talk>
+    </talks>
+    <talks id="dog_0">
+        <talk name="Doge">哈哈哈哈哈哈哈哈哈……</talk>
+        <talk name="Doge">（狗朝着东边狂吠）</talk>
+        <talk name="赵灵儿">（它的叫声？？？）</talk>
+    </talks>
+    <talks id="suanming_0">
+        <talk name="算命先生">小姐，我观你颧骨平滑，下巴圆润饱满，不如……</talk>
+        <talk name="赵灵儿">不约，叔叔我们不约。</talk>
+    </talks>
+    <talks id="lixiaoyao_0">
+        <talk name="Zhao LingEr">Hey boy，what are you doing now?</talk>
+        <talk name="Li XiaoYao">Hello, my name is Li XiaoYao. Nice to meet you.</talk>
+        <talk name="Zhao LingEr">Nice to meet you too, can you speak chinese?</talk>
+        <talk name="李逍遥">（我看着像外国人吗……）</talk>
+        <talk name="李逍遥">听闻村外有些妖怪出没，残害了不少村民，我正欲去制服他们。不知姑娘是否愿意同行？</talk>
+        <talk name="赵灵儿">我叫赵灵儿，正想上蜀山，这样吧，我帮你捉妖，你带我上蜀山，如何？</talk>
+        <talk name="李逍遥">好的，那我们一会儿村外见。</talk>
+    </talks>
+    <talks id="dajia_0">
+        <talk name="地痞">叫你不好好学Android。</talk>
+        <talk name="地痞">叫你不认真敲代码！</talk>
+        <talk name="赵灵儿">（真惨啊……装作没看见好了……）</talk>
+        <talk name="落难书生">女侠救我呀！</talk>
+        <talk name="赵灵儿">（卧槽被发现了！快溜！）</talk>
+    </talks>
+    <talks id="teleport_0">
+        <talk name="赵灵儿">在没有找到如意郎君前，还是不要贸然出村吧。</talk>
+    </talks>
+    <talks id="tiaosheng_1">
+        <talk name="跳绳小孩">小美女小帅哥快来玩呀~ 喜羊羊~ 美羊羊~ 懒羊羊~ 沸羊羊~</talk>
+        <talk name="跳绳小孩">听说姐姐消灭了村外的妖怪，是真的吗！？</talk>
+        <talk name="赵灵儿">是啊，怎样？（高冷.jpg）</talk>
+        <talk name="跳绳小孩">那你很棒棒噢！</talk>
+        <talk name="赵灵儿">不要迷恋姐，姐只是个传说</talk>
+    </talks>
+    <talks id="suanming_1">
+        <talk name="算命先生">没想到呀，你个瘦弱的女娃娃还真能打妖怪呀！</talk>
+        <talk name="赵灵儿">你可别小看我，我可是女娲族的后人。</talk>
+        <talk name="算命先生">不敢相信……这世上竟然……还真有继承女娲神力之人。</talk>
+        <talk name="算命先生">小姑娘呀……，不对，女娲神族的后裔，你可知女娲娘娘当年是被人们与天地诸神如何迫害的吗？</talk>
+        <talk name="算命先生">你又知道，女娲后裔世世代代是如何为人们牺牲，却无人感激与回报的吗？</talk>
+        <talk name="赵灵儿">这是天命。女娲族代代相传，肩负着就是拯救苍生的重任，我已经做好了以身殉道的准备。</talk>
+        <talk name="算命先生">纵然你们为人类付出再多，愚昧又自私的人类，是不会感激你们的。</talk>
+    </talks>
+    <talks id="lixiaoyao_1">
+        <talk name="李逍遥">村外的妖怪终于消灭了，锁妖塔倒塌，现在蜀山一片大乱，不知道师父现在怎么样了……</talk>
+        <talk name="赵灵儿">我也担心……我……，算了，我们还是抓紧时间上蜀山吧。</talk>
+        <talk name="李逍遥">嗯，我先去给师父买些酒，一会我们村外见</talk>
+        <talk name="赵灵儿">这都什么时候了，你还买酒？</talk>
+        <talk name="李逍遥">你不懂，师父没酒了会骂人的！</talk>
+    </talks>
+
+</story>
